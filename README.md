@@ -1,7 +1,8 @@
 # Text-to-image-AI-Saas-App
+
 A modern AI-powered SaaS application that converts text prompts into high-quality images using advanced generative AI models. Built with scalability, authentication, and payments in mind — ready for real-world deployment.
 
-Features:
+### Features:
 - Generate images from text prompts
 - Secure user authentication
 - Subscription-based SaaS model
@@ -10,7 +11,7 @@ Features:
 - Credit-based usage system
 - Fully responsive design
 
-🛠️ Tech Stack </br>
+### 🛠️ Tech Stack </br>
 - Frontend </br>
 - React / Next.js </br>
 - Tailwind CSS </br>
@@ -19,16 +20,16 @@ Features:
 - Node.js </br>
 - Express.js </br>
 
-Database </br>
+### Database </br>
 - MongoDB
 
-Authentication </br>
+### Authentication </br>
 - JWT
 
-Payments </br>
+### Payments </br>
 - Stripe Integration
 
-AI Integration </br>
+### AI Integration </br>
 - OpenAI
 
 # How It Works
