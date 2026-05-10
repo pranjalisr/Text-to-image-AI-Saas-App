@@ -20,18 +20,18 @@ Features:
 - Express.js </br>
 
 Database </br>
-MongoDB
+- MongoDB
 
 Authentication </br>
-JWT
+- JWT
 
 Payments </br>
-Stripe Integration
+- Stripe Integration
 
 AI Integration </br>
-OpenAI
+- OpenAI
 
-How It Works
+# How It Works
 
 User signs up or logs in. </br>
 User enters a text prompt (e.g., "A futuristic city in cyberpunk style at sunset"). </br>
