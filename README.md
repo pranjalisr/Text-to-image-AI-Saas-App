@@ -11,13 +11,13 @@ Features:
 - Fully responsive design
 
 🛠️ Tech Stack </br>
-Frontend </br>
-React / Next.js </br>
-Tailwind CSS </br>
-Axios </br>
-Backend </br>
-Node.js </br>
-Express.js </br>
+- Frontend </br>
+- React / Next.js </br>
+- Tailwind CSS </br>
+- Axios </br>
+- Backend </br>
+- Node.js </br>
+- Express.js </br>
 
 Database </br>
 MongoDB
