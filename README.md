@@ -34,10 +34,10 @@ A modern AI-powered SaaS application that converts text prompts into high-qualit
 
 # How It Works
 
-User signs up or logs in. </br>
-User enters a text prompt (e.g., "A futuristic city in cyberpunk style at sunset"). </br>
-The app sends the prompt to an AI image generation API. </br>
-User can view, download, or manage their images from the dashboard. </br>
+- User signs up or logs in. </br>
+- User enters a text prompt (e.g., "A futuristic city in cyberpunk style at sunset"). </br>
+- The app sends the prompt to an AI image generation API. </br>
+- User can view, download, or manage their images from the dashboard. </br>
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
