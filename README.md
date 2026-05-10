@@ -2,9 +2,9 @@
 A modern AI-powered SaaS application that converts text prompts into high-quality images using advanced generative AI models. Built with scalability, authentication, and payments in mind — ready for real-world deployment.
 
 Features:
-Generate images from text prompts
-Secure user authentication
-Subscription-based SaaS model
+- Generate images from text prompts
+- Secure user authentication
+- Subscription-based SaaS model
 User dashboard with generation history
 Fast and responsive UI
 Credit-based usage system
