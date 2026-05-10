@@ -5,10 +5,10 @@ Features:
 - Generate images from text prompts
 - Secure user authentication
 - Subscription-based SaaS model
-User dashboard with generation history
-Fast and responsive UI
-Credit-based usage system
-Fully responsive design
+- User dashboard with generation history
+- Fast and responsive UI
+- Credit-based usage system
+- Fully responsive design
 
 🛠️ Tech Stack </br>
 Frontend </br>
